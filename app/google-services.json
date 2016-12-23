@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "449709405879",
+    "firebase_url": "https://cardornek.firebaseio.com",
+    "project_id": "cardornek",
+    "storage_bucket": "cardornek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449709405879:android:a43b9b5ec8fb9662",
+        "android_client_info": {
+          "package_name": "com.example.yunus.firebaserecycleradapter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449709405879-83t7qg74ujo9ts119lk4fthp8gvvnnu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQg2yPkN10_hLO5I0kLByMJ7UYCh8Q8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
